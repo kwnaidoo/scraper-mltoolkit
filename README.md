@@ -1,5 +1,3 @@
-     Machine learning scraper toolkit     hljs.initHighlightingOnLoad();
-
 [Machine learning scraper toolkit](.)
 
 *   [Search](#)
