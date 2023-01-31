@@ -1,15 +1,3 @@
-[Machine learning scraper toolkit](.)
-
-*   [Search](#)
-
-*   [Introduction!](#introduction)
-    *   [Project layout](#project-layout)
-        
-    *   [Configuring scrapers](#configuring-scrapers)
-        
-    *   [Setting up docker](#setting-up-docker)
-        
-
 Introduction!
 =============
 
