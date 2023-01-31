@@ -17,8 +17,6 @@ For python, you will need python 3+ and fasttext: `pip install fasttext`
 
 Project layout
 --------------
-
-    documentation/   # Documentation for this project.
     src/
         mltoolkit/   # Here you will find all the Python code needed to generate Fasttext models. 
             classifier.py # All the functions needed to generate models and predictions.
