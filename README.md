@@ -1,7 +1,9 @@
-Introduction!
+Machine learning scraper toolkit
 =============
 
-Thank you for taking the time to checkout this project.
+The purpose of this project is to simplify some of the pain points with machine learning - often times you need to scrape data and format the data in certain formats to work with fasttext and other machine learning models.
+
+This project provides a simple set of tools to scrape shopify stores and also extend the functionality to support other scrapers.
 
 To get started you first will need to have docker running on your machine, you can get install steps here : https://docs.docker.com/engine/install/
 
