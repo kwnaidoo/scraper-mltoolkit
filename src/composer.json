@@ -1,0 +1,19 @@
+{
+    "name": "plexcorp/mltoolkit",
+    "description": "A toolkit to scrape data and generate text classifiers.",
+    "autoload": {
+        "psr-4": {
+            "Plexcorp\\Mltoolkit\\": "scrapers/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kevin Naidoo",
+            "email": "kevin@kevincoder.co.za"
+        }
+    ],
+    "require": {
+        "voku/simple_html_dom": "^4.8",
+        "symfony/console": "^6.2"
+    }
+}

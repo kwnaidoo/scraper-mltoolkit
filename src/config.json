@@ -1,0 +1,21 @@
+
+[
+    {
+        "name": "toscraper",
+        "class": "Toscraper",
+        "feed_path": "./feeds/toscraper.json",
+        "base_url": "https://books.toscrape.com/",
+        "description": "A sample scrapper that scrapes books.toscrape.com",
+        "classifier": {
+            "feed_path": "../feeds/toscraper.json",
+            "model_path": "../models/toscraper.bin",
+            "dataset_path": "../models/datasets/toscraper.txt",
+            "field": "category",
+            "text": "title",
+            "loss_function": "ova",
+            "epochs": 25,
+            "ngrams": 2,
+            "threads": 30
+        }
+    }
+]
